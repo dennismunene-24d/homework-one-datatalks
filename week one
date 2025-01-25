@@ -17,6 +17,7 @@ pgAdmin will use the host's port 5433 for the PostgreSQL service
 ANSWER = db:5433
 
 
-QUESTION THREE 
+QUESTION THREE
+
 
 
