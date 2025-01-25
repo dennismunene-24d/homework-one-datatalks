@@ -1,0 +1,22 @@
+QUESTION ONE
+
+docker container run -it --entrypoint=bash python:3.12.8 
+
+root@888f983c33d9:/# pip --version
+
+ANSWER = pip 24.3.1 
+
+
+QUESTION TWO
+Hostname: db
+
+Port: 5433
+
+pgAdmin will use the host's port 5433 for the PostgreSQL service
+
+ANSWER = db:5433
+
+
+QUESTION THREE 
+
+
